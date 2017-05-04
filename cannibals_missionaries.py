@@ -64,8 +64,10 @@ def cann_miss(b1=bank1, b2=bank2, bo=boat):
 
     cann_miss(b1, b2, bo)  # another series of crossings
 
+
 def main():
-	cann_miss()
-	
+    cann_miss()
+
+
 if __name__ == '__main__':
-	main()
+    main()
